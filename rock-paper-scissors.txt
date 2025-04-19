@@ -12,12 +12,12 @@ Then repeat 4 more times. Who won the best of five? :D
 
 ===
 
-Game 1:
+Game 1: Rock
 
-Game 2: 
+Game 2: Rock
 
-Game 3:
+Game 3: Paper
 
-Game 4:
+Game 4: Scissor
 
-Game 5:
+Game 5: Scissor
