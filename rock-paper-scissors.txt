@@ -11,13 +11,12 @@ merge conflict! Solve the merge conflict by keeping the winning hand.
 Then repeat 4 more times. Who won the best of five? :D
 
 ===
+Game 1: Mattias-paper
 
-Game 1: Rock
-
-Game 2: Rock
+Game 2: Mattias - paper
 
 Game 3: Paper
 
 Game 4: Scissor
 
-Game 5: Scissor
+Game 5: Mattias - scissors
