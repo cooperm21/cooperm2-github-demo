@@ -12,12 +12,12 @@ Then repeat 4 more times. Who won the best of five? :D
 
 ===
 
-Game 1:
+Game 1: Mattias-paper
 
-Game 2: 
+Game 2: Mattias - paper
 
-Game 3:
+Game 3: Mattias - rock
 
-Game 4:
+Game 4: Mattias - paper
 
-Game 5:
+Game 5: Mattias - scissors
